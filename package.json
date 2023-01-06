@@ -63,7 +63,7 @@
     "semantic-ui-react": "^0.82.0",
     "solc": "^0.4.24",
     "timeseries-analysis": "^1.0.12",
-    "truffle-hdwallet-provider": "0.0.5",
+    "truffle-hdwallet-provider": "1.0.17",
     "web3": "^1.0.0-beta.26"
   },
   "devDependencies": {
